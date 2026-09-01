@@ -1,16 +1,17 @@
-## Hi there 👋
+# Cześć, I'm Mateusz 👋
 
-<!--
-**Matian37/Matian37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Go & Python Software Developer | C++ Competitive Programmer
 
-Here are some ideas to get you started:
+👨‍💻 **Competitive Programming Highlights**
+- **XXXI Polish Olympiad in Informatics:** Finalist
+- **Potyczki Algorytmiczne 2025:** 83rd place
+- **Potyczki Algorytmiczne 2024:** 154th place
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ **Tech Stack**
+- **Languages:** Go, Python, C++
+- **Databases & Messaging:** PostgreSQL, NATS
+- **DevOps & Infrastructure:** Docker, Docker Compose, Linux, GitHub Actions
+- **Testing & Quality:** Testcontainers, `testify` (Go), `pytest` (Python)
+
+📫 **Contact**
+- **Email:** [mateusz.pietrowcow@gmail.com](mailto:mateusz.pietrowcow@gmail.com)
