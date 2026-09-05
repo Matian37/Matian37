@@ -11,7 +11,7 @@ Go & Python Software Developer | C++ Competitive Programmer
 - **Languages:** Go, Python, C++
 - **Databases & Messaging:** PostgreSQL, NATS
 - **DevOps & Infrastructure:** Docker, Docker Compose, Linux, GitHub Actions
-- **Testing & Quality:** Testcontainers, `testify` (Go), `pytest` (Python)
+- **Testing tools:** Testcontainers, `testify` (Go), `pytest` (Python)
 
 📫 **Contact**
 - **Email:** [mateusz.pietrowcow@gmail.com](mailto:mateusz.pietrowcow@gmail.com)
