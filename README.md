@@ -12,7 +12,7 @@ CS Student at University of Warsaw, Software Developer, Competitive Programmer
 
 - **Languages**: Go, Python
 - **Databases & Messaging**: PostgreSQL, NATS
-- **DevOps & CI/CD**: Docker, Linux, Github Actions
+- **Infrastructure & CI/CD**: Docker, Linux, Github Actions
 - **Testing tools**: Testcontainers, Pytest, Testify
 
 ## 📫 **Contact**
