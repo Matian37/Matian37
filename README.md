@@ -7,7 +7,7 @@ CS Student at University of Warsaw, Software Developer, Competitive Programmer
 - **XXXI Polish Olympiad in Informatics:** Finalist
 - **Potyczki Algorytmiczne 2025:** 83rd place
 - **Potyczki Algorytmiczne 2024:** 154th place
-- **Codeforces:** https://codeforces.com/profile/Matian
+- **Codeforces:** [profile](https://codeforces.com/profile/Matian)
 
 ## 🖥️ Tech Stack
 
